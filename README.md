@@ -1,13 +1,11 @@
-# 💻 Sobre o desafio
+# 💻 About the challenge
 
-Nesse desafio, você realizará consultas no banco de dados com o TypeORM de três maneiras:
+In this challenge, you will perform database queries with TypeORM in three ways:
 
-- Usando o ORM
-- Usando Query Builder
-- Usando Raw Query
+- Using the ORM
+- Using Query Builder
+- Using Raw Query
 
-Isso irá te ajudar a entender e exercitar os diferentes tipos de consultas que podemos fazer.
+This will help you understand and exercise the different types of queries we can do.
 
-No template, você irá encontrar uma aplicação já estruturada (apenas as entidades e repositórios) onde você deverá completar o que falta nas consultas dos dois repositórios.
-
-A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter vários jogos e um mesmo **jogo** pode estar associado a vários usuários.
+In the template, you will find an application already structured (only the entities and repositories) where you will have to complete what is missing in the queries of the two repositories.
